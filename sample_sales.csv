@@ -1,0 +1,13 @@
+date,product,category,quantity,price
+2026-10-01,Laptop,Electronics,2,45000
+2026-10-02,Mouse,Electronics,8,500
+2026-10-03,Keyboard,Electronics,5,1200
+2026-10-04,Notebook,Stationery,20,80
+2026-10-05,Headphones,Electronics,4,2500
+2026-10-06,Pen,Stationery,50,10
+2026-10-07,Laptop,Electronics,1,45000
+2026-10-08,Mouse,Electronics,12,500
+2026-10-09,Notebook,Stationery,30,80
+2026-10-10,Headphones,Electronics,3,2500
+2026-10-11,Keyboard,Electronics,6,1200
+2026-10-12,Pen,Stationery,40,10
